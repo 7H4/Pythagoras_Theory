@@ -1,2 +1,3 @@
 # Pythagoras_Theory
-mkl
+With Python
+Credit W3.
